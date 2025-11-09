@@ -1,4 +1,4 @@
-# 🎯 ResuScan Career Advisor Pro
+# 🎯 ResuScan Career Advisor
 
 **AI-Powered Resume Analyzer and Career Recommendation System**
 
