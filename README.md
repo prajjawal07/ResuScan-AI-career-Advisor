@@ -65,8 +65,6 @@ A clean, grayscale-themed **Streamlit UI** — minimal, fast, and elegant.
 | **UI Design** | Streamlit layout customization (no external CSS) |
 
 ---
- ## 🚀 Live Demo
-                                                                                                                 [APP LINK](https://resuscan.streamlit.app/)
 ## 📸 Preview
 
 <img width="1905" height="1056" alt="image" src="https://github.com/user-attachments/assets/8201110e-783c-41aa-9ff9-e70cb7edec48" />
