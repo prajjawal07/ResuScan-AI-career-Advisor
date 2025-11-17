@@ -65,7 +65,8 @@ A clean, grayscale-themed **Streamlit UI** — minimal, fast, and elegant.
 | **UI Design** | Streamlit layout customization (no external CSS) |
 
 ---
-[![Streamlit App](https://img.shields.io/badge/Live%20App-ResuScan%20Career%20Advisor-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://resuscan.streamlit.app/)
+[![ResuScan](https://img.shields.io/badge/ResuScan%20Live-0A2540?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://resuscan.streamlit.app/)
+
 
 
 
