@@ -64,6 +64,8 @@ A clean, grayscale-themed **Streamlit UI** — minimal, fast, and elegant.
 | **UI Design** | Streamlit layout customization (no external CSS) |
 
 ---
+## 🚀 Live Demo
+[Click here to open the deployed app](https://your-streamlit-link.streamlit.app)
 
 ## 📸 Preview
 
